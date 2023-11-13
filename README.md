@@ -21,7 +21,7 @@ Note que é possível até mesmo ver as informações de mais de um mês ao mesm
 
 Clicando na seta ao lado do título do dashboard atual, é possível chegar à tela de acesso aos outros dashboards. 
 
-![image](https://github.com/leofsilva10/dashboard_receitas_pagamentos/assets/114931860/b683819a-1290-4b19-8e29-b02c91abac1b)
+![image](https://github.com/leofsilva10/dashboard_receitas_pagamentos/assets/114931860/56f012b0-7980-4c9d-be55-9fcc48a86c74)
 
 A seguir temos o dashboard de Receitas, onde também é possível observar as informações agrupadas mês a mês e com a opção de se escolher o ano, sendo possível também selecionar as informações de um ou mais meses específicos para análise.
 
